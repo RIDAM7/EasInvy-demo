@@ -34,6 +34,15 @@ The goal is **clarity and speed**, not bloated features.
 
 ---
 
+## 📸 Screenshots
+
+![Login](screenshots/login.png)
+![Dashboard](screenshots/dashboard.png)
+![Inventory](screenshots/inventory.png)
+![Inventory](screenshots/inventory-.png)
+
+---
+
 ## 👤 Demo Access
 
 A demo account is available in **read-only mode** to explore the application.
@@ -95,3 +104,4 @@ LinkedIn / Portfolio: your-link-here
 ## 📄 License
 
 This project is private and not intended for reuse without permission.
+
