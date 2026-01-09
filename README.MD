@@ -47,7 +47,7 @@ The goal is **clarity and speed**, not bloated features.
 
 A demo account is available in **read-only mode** to explore the application.
 
-Demo Account Credentials:--
+🔗 Live Demo: https://easinvy.vercel.app/login
 - email: demo@easinvy.com
 - password: demo12345
 
@@ -97,11 +97,12 @@ If you need:
 
 📩 **Get in touch**  
 Email: ridam6419r@gmail.com  
-LinkedIn / Portfolio: your-link-here
+LinkedIn: www.linkedin.com/in/ridam-agrawal-928b61177
 
 ---
 
 ## 📄 License
 
 This project is private and not intended for reuse without permission.
+
 
